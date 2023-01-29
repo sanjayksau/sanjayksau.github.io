@@ -12,12 +12,6 @@ Pattern Recognition, Statistical Learning, Multi-label learning, Missing labels,
   <li><b>Kumar, Sanjay</b>, and Reshma Rastogi. "Low rank label subspace transformation for multi-label learning with missing labels." Information Sciences 596 (2022): 53-72.</li>
 </ol>
 
-## Education
-<ul>
-  <li>Master of Computer Applications(MCA) from Department of Computer Science, University of Delhi, New Delhi</li>
-  <li>B.Sc. (H) Physics from Deen Dayal Upadhyaya College, University of Delhi, New Delhi</li>
-</ul>
-
 ## Conferences/Workshops
 <ul>
   <li>Presented paper titled "Auxiliary label embedding for multi-label learning with missing labels" at International Conference on Computer Vision and Machine Intelligence (CVMI) 2022 held at IIIT, Allahabad, UP, India.</li>
@@ -31,4 +25,11 @@ Pattern Recognition, Statistical Learning, Multi-label learning, Missing labels,
   <li>NEC Corporation of America, 2010-2017, Worked as Solutions Architect providing data backup, archiving, disaster recovery and cloud storage solutions.</li>
   <li>HCL Technologies Ltd, 2003-2010, Worked as a Software Engineer in System and Application development; Enterprise Storage, Linux Internals, Crash dumps.</li>
 </ul>
+
+## Education
+<ul>
+  <li>Master of Computer Applications(MCA) from Department of Computer Science, University of Delhi, New Delhi</li>
+  <li>B.Sc. (H) Physics from Deen Dayal Upadhyaya College, University of Delhi, New Delhi</li>
+</ul>
+
 
