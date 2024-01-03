@@ -17,7 +17,7 @@ Pattern Recognition, Statistical Learning, Multi-label learning, Missing labels,
   <li>Presented paper titled "Auxiliary label embedding for multi-label learning with missing labels" at International Conference on Computer Vision and Machine Intelligence (CVMI) 2022 held at IIIT, Allahabad, UP, India.</li>
   <li>Attended 1 week workshop on “Hardware assisted security for fog computing based IOT networks” at DA-IICT, Gandhinagar, Gujarat, India (July, 2022).</li>
   <li>Attended International Symposium on ‘Emerging Trends in Deep Learning and Data Analytics’ at South Asian University (June, 2022),</li>
-  <li>Attending 2 weeks ‘Refresher Course in Analysis’ conducted by Deptt of Mathematics, Tezpur University (March, 2019).</li>
+  <li>Attended 2 weeks ‘Refresher Course in Analysis’ conducted by Deptt of Mathematics, Tezpur University (March, 2019).</li>
 </ul>
 
 ## Work Experience (Outside Academia)
