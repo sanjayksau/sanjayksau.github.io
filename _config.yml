@@ -23,11 +23,11 @@ repository               : "sanjayksau/sanjayksau.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Sanjay"
+  name             : "Sanjay Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, University of Delhi"
-  location         : "Earth"
-  employer         : "Deshbandhu College"
+  location         : "New Delhi, India"
+  employer         : "Deshbandhu College, University of Delhi"
   uri              : # URL
   email            : #"none@example.org" 
 
