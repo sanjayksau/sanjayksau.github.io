@@ -27,7 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, University of Delhi"
   location         : "New Delhi, India"
-  employer         : "Deshbandhu College, University of Delhi"
+  linkedin         : "https://www.linkedin.com/in/sanjayku"
+  #employer         : "Deshbandhu College, University of Delhi"
   uri              : # URL
   email            : #"none@example.org" 
 
