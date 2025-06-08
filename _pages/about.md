@@ -14,4 +14,4 @@ More recently, I have been exploring Generative AI and Quantum Computing out of 
 
 Prior to entering academia, I worked as a Software Engineer at NEC Corporation of America and HCL Technologies India. My work spanned enterprise storage solutions, including deduplication-based backup and archiving systems, as well as operating system crash dumps and analysis for RAS features.
 
-I enjoy teaching and try to support every student to the best of my ability. I aspire to master the art of making complex ideas easier to understand and helping students build confidence.
+I enjoy teaching and aspire to master the art of making complex ideas easier to understand.
