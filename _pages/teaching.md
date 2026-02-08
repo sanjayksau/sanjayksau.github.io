@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Even 2025–2026: *Reinforcement Learning, Deep Learning*<br>
+
+
 Odd 2025–2026: *Machine Learning, Object Oriented Programming using Python*<br>
 
 
