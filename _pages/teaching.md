@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Odd Semester 2026–2027
+*Machine Learning*
+
 ### Even Semester 2025–2026
 *Reinforcement Learning, Deep Learning*
 
