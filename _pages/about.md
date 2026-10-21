@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at Deshbandhu College, University of Delhi, where I teach undergraduate courses such as *Python for Data Handling* and *Data Exploration and Visualization*.
+I am an Assistant Professor in the Department of Computer Science at Deshbandhu College, University of Delhi, where I teach undergraduate courses such as *Machine Learning* and *Reinforcement Learning*.
 My research primarily focuses on multi-label learning with incomplete label information, a topic I explored extensively during my PhD through the development of several multi-label learning models.
 
 More recently, I have been exploring Generative AI and Quantum Computing out of curiosity and interest in their potential applications to real life and machine learning respectively.
